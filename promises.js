@@ -65,8 +65,7 @@ function showList(){
     document.body.appendChild(mainUL);
     console.log(mainUL);
   }
-  //showList();
-//console.log(userdata);
+  
 
 
 
